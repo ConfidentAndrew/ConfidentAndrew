@@ -63,6 +63,7 @@ It may start simple — but every commit represents progress.
 
 ---
 
-### 📊 GitHub Stats
-
-![Adriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ConfidentAndrew?label=Followers&style=flat"/>
+  <img src="https://img.shields.io/github/stars/ConfidentAndrew?label=Stars&style=flat"/>
+</p>
