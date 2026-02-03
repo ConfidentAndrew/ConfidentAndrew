@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World 👋</h1>
 
-Hi, I’m Andrew — also known as <strong>ConfidentAndrew</strong>.
+Hi, I’m Adriel — also known as <strong>ConfidentAndrew</strong>.
 
 I’m a developer in progress, focused on building solid fundamentals and clean projects.
 This profile is where I document my learning journey and turn ideas into real things.
